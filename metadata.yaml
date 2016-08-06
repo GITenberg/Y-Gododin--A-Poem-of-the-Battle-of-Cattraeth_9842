@@ -1,0 +1,78 @@
+_repo: Y-Gododin--A-Poem-of-the-Battle-of-Cattraeth_9842
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Williams, John
+    alias: Ab Ithel
+    birthdate: 1811
+    deathdate: 1862
+    gutenberg_agent_id: '3168'
+    url: http://www.gutenberg.org/2009/agents/3168
+    wikipedia: http://en.wikipedia.org/wiki/John_Williams_(Ab_Ithel)
+creator:
+  author:
+    agent_name: Aneirin
+    alias: Aneurin
+    gutenberg_agent_id: '3167'
+    url: http://www.gutenberg.org/2009/agents/3167
+    wikipedia: http://en.wikipedia.org/wiki/Aneirin
+description: "Y Gododdin (pronounced [ə ɡɔˈdɔðɪn]) is a medieval Welsh poem consisting\
+  \ of a series of elegies to the men of the Brittonic kingdom of Gododdin and its\
+  \ allies who, according to the conventional interpretation, died fighting the Angles\
+  \ of Deira and Bernicia at a place named Catraeth in c. AD 600. It is traditionally\
+  \ ascribed to the bard Aneirin and survives only in one manuscript, the Book of\
+  \ Aneirin.\nThe Book of Aneirin manuscript is from the later 13th century, but Y\
+  \ Gododdin has been dated to anywhere between the 7th and the early 11th centuries.\
+  \ The text is partly written in Middle Welsh orthography and partly in Old Welsh.\
+  \ The early date would place its oral composition soon after the battle, presumably\
+  \ in the Hen Ogledd (\"Old North\"); as such it would have been written in the Cumbric\
+  \ dialect of Common Brittonic. Others consider it the work of a poet from Wales\
+  \ in the 9th, 10th or 11th century. Even a 9th-century date would make it one of\
+  \ the oldest surviving Welsh works of poetry.\nThe Gododdin, known in Roman times\
+  \ as the Votadini, held territories in what is now southeast Scotland and Northumberland,\
+  \ part of the Hen Ogledd (Old North). The poem tells how a force of 300 (or 363)\
+  \ picked warriors were assembled, some from as far afield as Pictland and Gwynedd.\
+  \ After a year of feasting at Din Eidyn, now Edinburgh, they attacked Catraeth,\
+  \ which is usually identified with Catterick, North Yorkshire. After several days\
+  \ of fighting against overwhelming odds, nearly all the warriors are killed. The\
+  \ poem is similar in ethos to heroic poetry, with the emphasis on the heroes fighting\
+  \ primarily for glory, but is not a narrative. The manuscript contains several stanzas\
+  \ which have no connection with the Gododdin and are considered to be interpolations.\
+  \ One stanza in particular has received attention because it mentions King Arthur\
+  \ in passing, which, if not an interpolation, would be the earliest known reference\
+  \ to that character.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9842'
+  wikidata: Q430891
+language:
+- en
+- cy
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cattraeth, Battle of, Catterick, England, ca. 600 -- Poetry'
+- !lcc 'PB'
+- GITenberg
+title: 'Y Gododin: A Poem of the Battle of Cattraeth'
+url: http://www.gutenberg.org/ebooks/9842
+wikipedia:
+- https://fr.wikipedia.org/wiki/Y_Gododdin
+- https://nl.wikipedia.org/wiki/Y_Gododdin
+- https://pt.wikipedia.org/wiki/Y_Gododdin
+- https://pl.wikipedia.org/wiki/Y_Gododdin
+- https://cs.wikipedia.org/wiki/Y_Gododdin
+- https://de.wikipedia.org/wiki/Y_Gododdin
+- https://no.wikipedia.org/wiki/Y_Gododdin
+- https://es.wikipedia.org/wiki/Y_Gododdin
+- https://fy.wikipedia.org/wiki/Y_Gododdin
+- https://cy.wikipedia.org/wiki/Y_Gododdin
+- https://en.wikipedia.org/wiki/Y_Gododdin
+- https://it.wikipedia.org/wiki/Y_Gododdin
+- https://br.wikipedia.org/wiki/Y_Gododdin
+- https://la.wikipedia.org/wiki/Gododinium
+- https://zh.wikipedia.org/wiki/%E9%AB%98%E5%A4%9A%E6%B1%80_(%E8%AF%97%E6%AD%8C)
+- https://gl.wikipedia.org/wiki/Y_Gododdin
+- https://sv.wikipedia.org/wiki/Y_Gododdin
