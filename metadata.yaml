@@ -1,5 +1,5 @@
 _repo: Y-Gododin--A-Poem-of-the-Battle-of-Cattraeth_9842
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Williams, John
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '3168'
     url: http://www.gutenberg.org/2009/agents/3168
     wikipedia: http://en.wikipedia.org/wiki/John_Williams_(Ab_Ithel)
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Aneirin
@@ -41,6 +44,8 @@ description: "Y Gododdin (pronounced [ə ɡɔˈdɔðɪn]) is a medieval Welsh po
   \ One stanza in particular has received attention because it mentions King Arthur\
   \ in passing, which, if not an interpolation, would be the earliest known reference\
   \ to that character.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9842#Y-Gododin--A-Poem-of-the-Battle-of-Cattraeth
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
 identifiers:
